@@ -1,0 +1,9 @@
+LIBRARY jira-log-viewer
+
+EXPORTS
+    isUnicode
+    getName
+    getFuncsArray
+    setInfo
+    beNotified
+    messageProc
